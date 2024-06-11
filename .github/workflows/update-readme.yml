@@ -1,4 +1,4 @@
-name: Update README every 30 minutes
+name: Update README every 5 minutes
 
 on:
   schedule:
