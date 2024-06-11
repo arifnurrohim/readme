@@ -1,5 +1,5 @@
 {
-  "name": "be_grateful",
+  "name": "readme",
   "version": "1.0.0",
   "description": "Fork repo to give credit to your repo fans in your readme file automagically",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puntorigen/be_grateful.git"
+    "url": "git+https://github.com/arifnurrohim/readme.git"
   },
   "keywords": [
     "thanks",
